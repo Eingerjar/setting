@@ -35,7 +35,7 @@ let g:airline_theme='wombat'
 let g:airline#extensions#tabline#enabled = 1
 nnoremap <leader>q :bp<CR>
 nnoremap <leader>w :bn<CR>
-
+nnoremap <leader>d :bd<CR>
 " system clipboard setting
 set clipboard=unnamed
 " indent-guides
